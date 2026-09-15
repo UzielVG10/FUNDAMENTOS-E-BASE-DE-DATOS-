@@ -38,16 +38,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Txfq3cjup3mBrjyLgRIl-13" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="320" />
+              <mxPoint x="250" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Txfq3cjup3mBrjyLgRIl-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Password" vertex="1">
-          <mxGeometry height="30" width="70" x="240" y="300" as="geometry" />
+          <mxGeometry height="30" width="70" x="240" y="320" as="geometry" />
         </mxCell>
         <mxCell id="Txfq3cjup3mBrjyLgRIl-15" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="285" />
+              <mxPoint x="260" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Txfq3cjup3mBrjyLgRIl-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Id_tipo" vertex="1">
-          <mxGeometry height="40" width="100" x="280" y="240" as="geometry" />
+          <mxGeometry height="30" width="60" x="270" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-17" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-16" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Tiene&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="36" x="354" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
