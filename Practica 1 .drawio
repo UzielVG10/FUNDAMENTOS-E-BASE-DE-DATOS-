@@ -13,6 +13,18 @@
         <mxCell id="Txfq3cjup3mBrjyLgRIl-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="ID_Usuario" vertex="1">
           <mxGeometry height="40" width="100" x="30" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Email" vertex="1">
+          <mxGeometry height="40" width="100" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-5" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-7" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="N.Usuario" vertex="1">
+          <mxGeometry height="40" width="100" x="10" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
