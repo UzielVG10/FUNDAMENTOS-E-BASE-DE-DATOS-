@@ -25,6 +25,18 @@
         <mxCell id="Txfq3cjup3mBrjyLgRIl-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="N.Usuario" vertex="1">
           <mxGeometry height="40" width="100" x="10" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Ap" vertex="1">
+          <mxGeometry height="20" width="60" x="120" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-10" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="Am" vertex="1">
+          <mxGeometry height="20" width="50" x="190" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Txfq3cjup3mBrjyLgRIl-11" edge="1" parent="1" source="Txfq3cjup3mBrjyLgRIl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Txfq3cjup3mBrjyLgRIl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
